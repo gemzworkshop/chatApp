@@ -1,6 +1,6 @@
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyDOXBMS4S_x3rrVsrq66QfZ7zDKAiHStLE")
+genai.configure(api_key="your API key")
 
 # for i in genai.list_models():
 #     print(i.name)
